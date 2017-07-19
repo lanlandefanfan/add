@@ -1,0 +1,11 @@
+add：
+
+git init
+git add .
+git commit -m "注释"
+git remote add origin 网址
+git push -u origin master
+
+update：
+git init
+git clone 网址
